@@ -1,10 +1,31 @@
-<!-- Banner de encabezado -->
+<!-- Header Integrado con Foto -->
 <div align="center">
   
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Victor%20Hernández&fontSize=50&fontColor=ffffff&animation=fadeIn)
-
-<!-- Foto de perfil circular -->
-<img src="https://avatars.githubusercontent.com/u/181603194?v=4" alt="Foto de perfil" width="200" height="200" style="border-radius: 50%; border: 5px solid #fff; margin-top: -50px;">
+<!-- Banner personalizado con foto integrada -->
+<div style="position: relative; height: 250px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+  
+  <!-- Efecto de ondas -->
+  <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 100px; background: url('https://raw.githubusercontent.com/creativetimofficial/argon-design-system/gh-pages/assets/img/wave.png') center/cover no-repeat; opacity: 0.3;"></div>
+  
+  <!-- Foto de perfil circular superpuesta -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <img src="https://avatars.githubusercontent.com/u/181603194?v=4" 
+         alt="Victor Hernández" 
+         width="150" 
+         height="150" 
+         style="border-radius: 50%; border: 5px solid rgba(255,255,255,0.8); box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+  </div>
+  
+  <!-- Texto del header -->
+  <div style="position: absolute; bottom: 30px; width: 100%; text-align: center;">
+    <h1 style="color: white; font-size: 2.5rem; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+      Victor Hernández
+    </h1>
+    <p style="color: rgba(255,255,255,0.9); font-size: 1.2rem; margin: 10px 0 0 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">
+      Desarrollador Fullstack
+    </p>
+  </div>
+</div>
 
 ## 👋 ¡Hola! Soy Victor Hernández
 
@@ -120,8 +141,11 @@ Soy un desarrollador apasionado con experiencia en **JavaScript/TypeScript**, **
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
 **✨ Construyendo el futuro, un commit a la vez ✨**
+
+<!-- Footer con efecto de olas -->
+<div style="height: 100px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; margin-top: 30px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">
+  ¡Gracias por visitar mi perfil! 🚀
+</div>
 
 </div>
