@@ -103,6 +103,7 @@ Soy un desarrollador apasionado con experiencia en **JavaScript/TypeScript**, **
 
 [![Email](https://img.shields.io/badge/Email-victorhernandezsalcedo4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhernandezsalcedo4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-VictorHerdz10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorHerdz10)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/0x8x5g)
 
 </div>
 
