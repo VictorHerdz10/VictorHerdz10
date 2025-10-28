@@ -15,22 +15,13 @@
          height="160" 
          style="border-radius: 50%; border: 6px solid rgba(255,255,255,0.9); box-shadow: 0 12px 40px rgba(0,0,0,0.4);">
   </div>
-  
-  <!-- Texto del header con efecto de escritura -->
-  <div style="position: absolute; bottom: 40px; width: 100%; text-align: center;">
-    
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Hernández&center=true&color=FFFFFF&size=40&font=Segoe+UI&weight=800&width=500&height=60&duration=2000&pause=1000)](https://git.io/typing-svg)
-    
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack&center=true&color=FFD93D&size=28&font=Segoe+UI&weight=600&width=600&height=40&duration=1500&pause=800)](https://git.io/typing-svg)
-    
-  </div>
-</div>
 
-</div>
 
 ---
 
 ## 👋 **¡Hola! Soy Victor Hernández**
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Hernández&center=true&color=FFFFFF&size=40&font=Segoe+UI&weight=800&width=500&height=60&duration=2000&pause=1000)](https://git.io/typing-svg)
+
 
 <div style="font-size: 1.2rem; line-height: 1.6; color: #2D3748;">
   
