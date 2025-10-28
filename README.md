@@ -1,81 +1,66 @@
-&lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Victor%20Hernández&fontSize=50&fontColor=ffffff&animation=fadeIn" /&gt;
-&lt;/div&gt;
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Victor%20Hernández&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 ## 💻 Sobre mí
 
-&lt;div align="center"&gt;
-  Soy desarrollador &lt;strong&gt;Fullstack&lt;/strong&gt; con experiencia en &lt;strong&gt;JavaScript/TypeScript&lt;/strong&gt;, &lt;strong&gt;Rust&lt;/strong&gt;, &lt;strong&gt;C#&lt;/strong&gt; y tecnologías de escritorio, móvil y CLI. Construyo soluciones robustas, rápidas y escalables para web, escritorio, móvil y línea de comandos.
-&lt;/div&gt;
+Soy desarrollador **Fullstack** con experiencia en **JavaScript/TypeScript**, **Rust**, **C#** y tecnologías de escritorio, móvil y CLI. Construyo soluciones robustas, rápidas y escalables para web, escritorio, móvil y línea de comandos.
 
 ---
 
 ## 🧠 Tecnologías que domino
 
-&lt;div align="center"&gt;
+### Frontend  
+&lt;img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /&gt;
+&lt;img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /&gt;
+&lt;img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /&gt;
 
-### Frontend
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" /&gt;
+### Backend  
+&lt;img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /&gt;
+&lt;img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /&gt;
 
-### Backend
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" /&gt;
+### Rust (CLI, API, Escritorio)  
+&lt;img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/axum-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/actix-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /&gt;
 
-### Rust (CLI, API, Escritorio)
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50" /&gt;
+### Base de datos  
+&lt;img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" /&gt;
 
-### Base de datos
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" /&gt;
+### Escritorio & Móvil  
+&lt;img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/capacitor-%231194EE.svg?style=for-the-badge&logo=capacitor&logoColor=white" /&gt;
 
-### Escritorio & Móvil
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" width="50" height="50" /&gt;
-
-### Herramientas
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" /&gt;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" /&gt;
-
-&lt;/div&gt;
+### Herramientas  
+&lt;img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /&gt;
+&lt;img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /&gt;
 
 ---
 
 ## 📊 GitHub Stats
 
-&lt;div align="center"&gt;
-  &lt;img src="https://streak-stats.demolab.com/?user=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&locale=es" /&gt;
-  &lt;br&gt;&lt;br&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&layout=compact" /&gt;
-&lt;/div&gt;
+![GitHub Streak](https://streak-stats.demolab.com/?user=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&locale=es)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&layout=compact)
 
 ---
 
 ## 📬 Contacto
 
-&lt;div align="center"&gt;
-  ¿Quieres colaborar o tienes una idea?&lt;br&gt;
-  &lt;a href="mailto:victorhernandezsalcedo4@gmail.com"&gt;victorhernandezsalcedo4@gmail.com&lt;/a&gt;
-&lt;/div&gt;
+¿Quieres colaborar o tienes una idea?  
+Escríbeme: [victorhernandezsalcedo4@gmail.com](mailto:victorhernandezsalcedo4@gmail.com)
 
 ---
 
-&lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /&gt;
-&lt;/div&gt;
-
-&lt;!-- 💡 ESPACIO PARA TU FOTO --&gt;
-&lt;!-- &lt;img src="URL_DE_TU_FOTO" width="150" style="border-radius:50%; margin-top:20px;" /&gt; --&gt;
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
