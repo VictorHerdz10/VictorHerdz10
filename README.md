@@ -1,26 +1,23 @@
-<!-- Header Integrado con Foto -->
+<!-- Header con Gradiente y Efectos de Escritura -->
 <div align="center">
-  
-<!-- Banner personalizado con foto integrada -->
-<div style="position: relative; height: 250px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; overflow: hidden; margin-top: -50px;">
-  
-  <!-- Foto de perfil circular superpuesta -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="https://avatars.githubusercontent.com/u/181603194?v=4" 
-         alt="Victor Hernández" 
-         width="150" 
-         height="150" 
-         style="border-radius: 50%; border: 5px solid rgba(255,255,255,0.8); box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-  </div>
-  
+
+<!-- Banner personalizado -->
+<div style="position: relative; height: 280px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+
   <!-- Texto del header -->
-  <div style="position: absolute; bottom: 30px; width: 100%; text-align: center;">
-    <h1 style="color: white; font-size: 2.5rem; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+  <div style="position: absolute; bottom: 40px; width: 100%; text-align: center;">
+    
+    <!-- Nombre con gradiente -->
+    <h1 style="font-size: 3rem; margin: 0; background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #FFD93D); background-size: 300% 300%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
       Victor Hernández
     </h1>
-    <p style="color: rgba(255,255,255,0.9); font-size: 1.2rem; margin: 10px 0 0 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">
-      Desarrollador Fullstack
-    </p>
+    
+    <!-- Efectos de escritura para presentación -->
+    <div style="margin-top: 20px;">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack;Especialista+en+JavaScript/Rust/C#;Apasionado+por+el+Código+Limpio;Creador+de+Soluciones+Innovadoras;Amante+de+la+Tecnología&center=true&color=FFFFFF&size=20&font=Segoe+UI&weight=600&width=600&height=30&duration=3000&pause=1000&repeat=true)](https://git.io/typing-svg)
+
+    </div>
   </div>
 </div>
 
