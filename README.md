@@ -19,10 +19,8 @@
   <!-- Texto del header con efecto de escritura -->
   <div style="position: absolute; bottom: 40px; width: 100%; text-align: center;">
     
-    <!-- Efecto de escritura para el nombre -->
     [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Hernández&center=true&color=FFFFFF&size=40&font=Segoe+UI&weight=800&width=500&height=60&duration=2000&pause=1000)](https://git.io/typing-svg)
     
-    <!-- Efecto de escritura para el título -->
     [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack&center=true&color=FFD93D&size=28&font=Segoe+UI&weight=600&width=600&height=40&duration=1500&pause=800)](https://git.io/typing-svg)
     
   </div>
