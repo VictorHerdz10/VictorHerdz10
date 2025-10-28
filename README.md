@@ -1,29 +1,10 @@
 <!-- Header con Gradiente y Efectos de Escritura -->
 <div align="center">
 
-<!-- Banner personalizado -->
-<div style="position: relative; height: 280px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-
-  <!-- Texto del header -->
-  <div style="position: absolute; bottom: 40px; width: 100%; text-align: center;">
-    
-    <!-- Nombre con gradiente -->
-    <h1 style="font-size: 3rem; margin: 0; background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #FFD93D); background-size: 300% 300%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-      Victor Hernández
-    </h1>
-    
-    <!-- Efectos de escritura para presentación -->
-    <div style="margin-top: 20px;">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack;Especialista+en+JavaScript/Rust/C#;Apasionado+por+el+Código+Limpio;Creador+de+Soluciones+Innovadoras;Amante+de+la+Tecnología&center=true&color=FFFFFF&size=20&font=Segoe+UI&weight=600&width=600&height=30&duration=3000&pause=1000&repeat=true)](https://git.io/typing-svg)
-
-    </div>
-  </div>
-</div>
 
 ## 👋 ¡Hola! Soy Victor Hernández
 
-**Desarrollador Fullstack** especializado en crear soluciones robustas y escalables para web, escritorio y móvil.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack;Especialista+en+JavaScript/Rust/C#;Apasionado+por+el+Código+Limpio;Creador+de+Soluciones+Innovadoras;Amante+de+la+Tecnología&center=true&color=FFFFFF&size=20&font=Segoe+UI&weight=600&width=600&height=30&duration=3000&pause=1000&repeat=true)](https://git.io/typing-svg)
 
 </div>
 
