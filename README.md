@@ -50,9 +50,9 @@ Soy desarrollador **Fullstack** con experiencia en **JavaScript/TypeScript**, **
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=VictorHerdz1&theme=dark&hide_border=true&border_radius=10&locale=es)
+![GitHub Streak](https://streak-stats.demolab.com/?user=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&locale=es)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHerdz1&theme=dark&hide_border=true&border_radius=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&layout=compact)
 
 ---
 
