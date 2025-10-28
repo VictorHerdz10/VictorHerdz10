@@ -148,6 +148,6 @@ Soy un desarrollador apasionado con experiencia en **JavaScript/TypeScript**, **
 <!-- Footer con Olas y Mensaje -->
 <div align="center">
 
-![Footer Waves](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!%20🚀&fontSize=20&fontColor=ffffff&animation=fadeIn)
+![Footer Waves](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!%20&fontSize=20&fontColor=ffffff&animation=fadeIn)
 
 </div>
