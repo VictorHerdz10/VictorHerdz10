@@ -1,8 +1,15 @@
+<!-- Header con Olas -->
+<div align="center">
+  
+![Header Waves](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
+
+</div>
+
 <!-- Header Integrado con Foto -->
 <div align="center">
   
 <!-- Banner personalizado con foto integrada -->
-<div style="position: relative; height: 250px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+<div style="position: relative; height: 250px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; overflow: hidden; margin-top: -50px;">
   
   <!-- Efecto de ondas -->
   <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 100px; background: url('https://raw.githubusercontent.com/creativetimofficial/argon-design-system/gh-pages/assets/img/wave.png') center/cover no-repeat; opacity: 0.3;"></div>
@@ -143,9 +150,11 @@ Soy un desarrollador apasionado con experiencia en **JavaScript/TypeScript**, **
 
 **✨ Construyendo el futuro, un commit a la vez ✨**
 
-<!-- Footer con efecto de olas -->
-<div style="height: 100px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; margin-top: 30px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">
-  ¡Gracias por visitar mi perfil! 🚀
 </div>
+
+<!-- Footer con Olas y Mensaje -->
+<div align="center">
+
+![Footer Waves](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!%20🚀&fontSize=20&fontColor=ffffff&animation=fadeIn)
 
 </div>
