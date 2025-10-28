@@ -1,20 +1,21 @@
-<!-- Header con Gradiente y Efectos de Escritura -->
+<!-- Header con Efectos de Escritura -->
 <div align="center">
 
+## <span style="font-size: 2.5rem; font-weight: bold; color: #2D3748;">👋 ¡Hola! Soy Victor Hernández</span>
 
-## 👋 ¡Hola! Soy Victor Hernández
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack;Especialista+en+JavaScript/Rust/C#;Apasionado+por+el+Código+Limpio;Creador+de+Soluciones+Innovadoras;Amante+de+la+Tecnología&center=true&color=FFFFFF&size=20&font=Segoe+UI&weight=600&width=600&height=30&duration=3000&pause=1000&repeat=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack;Especialista+en+JavaScript/Rust/C%23;Apasionado+por+el+Código+Limpio;Creador+de+Soluciones+Innovadoras;Amante+de+la+Tecnología&center=true&color=667eea&size=28&font=Segoe+UI&weight=700&width=800&height=40&duration=3000&pause=1000&repeat=true)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## <span style="font-size: 1.8rem; font-weight: bold; color: #2D3748;">🚀 Sobre mí</span>
+
+<div style="font-size: 1.2rem; line-height: 1.6; color: #4A5568;">
 
 Soy un desarrollador apasionado con experiencia en **JavaScript/TypeScript**, **Rust**, **C#** y diversas tecnologías modernas. Me encanta construir aplicaciones eficientes, mantenibles y con excelente experiencia de usuario across diferentes plataformas.
 
----
+</div>
 
 ## 🛠️ Stack Tecnológico
 
