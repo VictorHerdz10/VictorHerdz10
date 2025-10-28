@@ -4,9 +4,6 @@
 <!-- Banner personalizado con foto integrada -->
 <div style="position: relative; height: 250px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; margin-bottom: 30px; display: flex; align-items: center; justify-content: center; overflow: hidden; margin-top: -50px;">
   
-  <!-- Efecto de ondas -->
-  <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 100px; background: url('https://raw.githubusercontent.com/creativetimofficial/argon-design-system/gh-pages/assets/img/wave.png') center/cover no-repeat; opacity: 0.3;"></div>
-  
   <!-- Foto de perfil circular superpuesta -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <img src="https://avatars.githubusercontent.com/u/181603194?v=4" 
