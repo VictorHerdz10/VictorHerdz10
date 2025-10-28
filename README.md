@@ -2,7 +2,7 @@
 <div align="center">
 
 ## 👋 ¡Hola! Soy **Victor Hernández**
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack;Especialista+en+JavaScript/Rust/C%23;Apasionado+por+el+Código+Limpio;Creador+de+Soluciones+Innovadoras;Amante+de+la+Tecnología&center=true&color=667eea&size=28&font=Segoe+UI&weight=700&width=800&height=40&duration=3000&pause=1000&repeat=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+Fullstack Web;Especialista+en+JavaScript/Rust/C%23;Apasionado+por+el+Código+Limpio;Creador+de+Soluciones+Innovadoras;Amante+de+la+Tecnología&center=true&color=667eea&size=28&font=Segoe+UI&weight=700&width=800&height=40&duration=3000&pause=1000&repeat=true)](https://git.io/typing-svg)
 
 </div>
 
