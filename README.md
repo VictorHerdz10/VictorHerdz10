@@ -82,7 +82,7 @@ Soy un desarrollador apasionado con experiencia en **JavaScript/TypeScript**, **
 <div align="center">
 
 <!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&locale=es-ES)](https://git.io/streak-stats)
 
 <!-- Lenguajes más usados -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
