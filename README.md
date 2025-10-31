@@ -1,5 +1,3 @@
-¡Ah, ahora entiendo perfectamente! Quieres aplicar las secciones y estructura del README de Lianet al README de Victor. Aquí está:
-
 <!-- Header con Efectos de Escritura -->
 <div align="center">
 
