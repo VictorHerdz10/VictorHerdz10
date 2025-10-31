@@ -1,3 +1,5 @@
+¡Ah, ahora entiendo perfectamente! Quieres aplicar las secciones y estructura del README de Lianet al README de Victor. Aquí está:
+
 <!-- Header con Efectos de Escritura -->
 <div align="center">
 
@@ -9,6 +11,8 @@
 ## 🚀 Sobre mí
 
 Soy un desarrollador apasionado con experiencia en **JavaScript/TypeScript**, **Rust**, **C#** y diversas tecnologías modernas. Me encanta construir aplicaciones eficientes, mantenibles y con excelente experiencia de usuario across diferentes plataformas.
+
+---
 
 ## 🛠️ Stack Tecnológico
 
@@ -77,17 +81,42 @@ Soy un desarrollador apasionado con experiencia en **JavaScript/TypeScript**, **
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&locale=es)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorHerdz10&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHerdz10&layout=compact&theme=radical)
 
-<!-- Lenguajes más usados -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHerdz10&theme=dark&hide_border=true&border_radius=10&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-<!-- Stats generales -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorHerdz10&show_icons=true&theme=dark&hide_border=true&border_radius=10&count_private=true)
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VictorHerdz10&theme=gruvbox&no-frame=true&margin-w=10)
+
+</div>
+
+---
+
+## 📈 Profile Summary
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorHerdz10&theme=radical)
+
+</div>
+
+---
+
+## 🔥 Top Contributed Repo
+
+<div align="center">
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=VictorHerdz10&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
