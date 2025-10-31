@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- Header con efecto typing y olas -->
-![Header con Typing](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hi!+I'm+Victor+Hernández&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Fullstack+Web+Developer%0ASpecialist+in+JavaScript/Rust/C%23%0APassionate+about+Clean+Code%0ACreator+of+Innovative+Solutions%0ATechnology+Lover&descSize=20&descAlign=50&descAlignY=65)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+fullstack+developer;With+experience+in+JavaScript/Rust/C%23;Let's+build+something+amazing+together!&center=true&color=ff6b6b&size=24&font=Segoe+UI&weight=600&width=800&height=40&duration=4000&pause=2000&repeat=true)](https://git.io/typing-svg)
+<!-- Header con texto que simula typing -->
+![Custom Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hi!+I'm+Victor+Hernández&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Fullstack+Developer+%7C+JavaScript+Rust+C%23+%7C+Clean+Code+Advocate&descSize=16&descAlign=50&descAlignY=65)
 
 </div>
 
+<div align="center">
+
+<!-- Efecto typing justo debajo del header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Creating+innovative+solutions;Passionate+about+clean+architecture;Open+to+collaborate+on+exciting+projects&center=true&color=ff6b6b&size=20&font=Segoe+UI&weight=500&width=700&height=30&duration=3000&pause=1500&repeat=true)](https://git.io/typing-svg)
+
+</div>
 ## 🚀 About Me
 
 I'm a passionate developer with experience in **JavaScript/TypeScript**, **Rust**, **C#** and various modern technologies. I love building efficient, maintainable applications with excellent user experience across different platforms.
