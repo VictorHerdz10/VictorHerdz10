@@ -1,7 +1,6 @@
-# 👋 Hi! I'm **Victor Hernández**
-
 <div align="center">
-
+# 👋 Hi! I'm **Victor Hernández**
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer;Specialist+in+JavaScript/Rust/C%23;Passionate+about+Clean+Code;Creator+of+Innovative+Solutions;Technology+Lover&center=true&color=ff6b6b&size=28&font=Segoe+UI&weight=700&width=800&height=40&duration=3000&pause=1000&repeat=true)](https://git.io/typing-svg)
 
 </div>
@@ -14,15 +13,12 @@ I'm a passionate developer with experience in **JavaScript/TypeScript**, **Rust*
 
 ## 💻 Programming Languages
 
-<div align="center">
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
 
 ---
 
