@@ -1,4 +1,3 @@
-<!-- Header con Efectos de Escritura -->
 <div align="center">
 
 ## 👋 ¡Hola! Soy **Victor Hernández**
@@ -134,13 +133,6 @@ Soy un desarrollador apasionado con experiencia en **JavaScript/TypeScript**, **
 </div>
 
 ---
-
-<div align="center">
-
-**✨ Construyendo el futuro, un commit a la vez ✨**
-
-</div>
-
 <!-- Footer con Olas y Mensaje -->
 <div align="center">
 
