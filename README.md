@@ -7,10 +7,11 @@
 
 <div align="center">
 
-<!-- Efecto typing justo debajo del header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Creating+innovative+solutions;Passionate+about+clean+architecture;Open+to+collaborate+on+exciting+projects&center=true&color=ff6b6b&size=20&font=Segoe+UI&weight=500&width=700&height=30&duration=3000&pause=1500&repeat=true)](https://git.io/typing-svg)
+<!-- Efecto typing con letra más grande -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Creating+innovative+solutions;Passionate+about+clean+architecture;Open+to+collaborate+on+exciting+projects&center=true&color=ff6b6b&size=28&font=Segoe+UI&weight=600&width=800&height=40&duration=3000&pause=1500&repeat=true)](https://git.io/typing-svg)
 
 </div>
+
 ## 🚀 About Me
 
 I'm a passionate developer with experience in **JavaScript/TypeScript**, **Rust**, **C#** and various modern technologies. I love building efficient, maintainable applications with excellent user experience across different platforms.
