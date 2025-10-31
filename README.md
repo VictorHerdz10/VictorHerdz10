@@ -79,13 +79,9 @@ I'm a passionate developer with experience in **JavaScript/TypeScript**, **Rust*
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VictorHerdz10&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorHerdz10&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHerdz10&layout=compact&theme=radical)
-
-</div>
 
 ---
 
