@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header con texto que simula typing -->
+<!-- Header con olas que coinciden con el footer -->
 ![Custom Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hi!+I'm+Victor+Hernández&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Fullstack+Developer+%7C+JavaScript+Rust+C%23+%7C+Clean+Code+Advocate&descSize=16&descAlign=50&descAlignY=65)
 
 </div>
