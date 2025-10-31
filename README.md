@@ -1,7 +1,9 @@
 <div align="center">
-# 👋 Hi! I'm **Victor Hernández**
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer;Specialist+in+JavaScript/Rust/C%23;Passionate+about+Clean+Code;Creator+of+Innovative+Solutions;Technology+Lover&center=true&color=ff6b6b&size=28&font=Segoe+UI&weight=700&width=800&height=40&duration=3000&pause=1000&repeat=true)](https://git.io/typing-svg)
+
+<!-- Header con efecto typing y olas -->
+![Header con Typing](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hi!+I'm+Victor+Hernández&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Fullstack+Web+Developer%0ASpecialist+in+JavaScript/Rust/C%23%0APassionate+about+Clean+Code%0ACreator+of+Innovative+Solutions%0ATechnology+Lover&descSize=20&descAlign=50&descAlignY=65)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+fullstack+developer;With+experience+in+JavaScript/Rust/C%23;Let's+build+something+amazing+together!&center=true&color=ff6b6b&size=24&font=Segoe+UI&weight=600&width=800&height=40&duration=4000&pause=2000&repeat=true)](https://git.io/typing-svg)
 
 </div>
 
