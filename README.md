@@ -7,8 +7,8 @@
 
 <div align="center">
 
-<!-- Efecto typing con letra más grande -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Creating+innovative+solutions;Passionate+about+clean+architecture;Open+to+collaborate+on+exciting+projects&center=true&color=ff6b6b&size=28&font=Segoe+UI&weight=600&width=800&height=40&duration=3000&pause=1500&repeat=true)](https://git.io/typing-svg)
+<!-- Efecto typing extra grande -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Creating+innovative+solutions;Passionate+about+clean+architecture;Open+to+collaborate+on+exciting+projects&center=true&color=ff6b6b&size=32&font=Segoe+UI&weight=700&width=900&height=45&duration=3000&pause=1500&repeat=true)](https://git.io/typing-svg)
 
 </div>
 
