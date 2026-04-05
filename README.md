@@ -84,7 +84,7 @@ I'm a passionate developer with experience in **JavaScript/TypeScript**, **Rust*
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorHerdz10&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHerdz10&layout=compact&theme=radical)
 [![committers.top badge](https://user-badge.committers.top/cuba/VictorHerdz10.svg)](https://user-badge.committers.top/cuba/VictorHerdz10)
-
+ 
 ---
 
 ## 🏆 GitHub Trophies
